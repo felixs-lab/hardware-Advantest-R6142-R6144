@@ -4,9 +4,9 @@
 
 ## Documenatation
 
-* [Advantest R6142/R6144 - Instruction Manual](Advantest_6144_ope_e.pdf)
+* [Advantest R6142/R6144 - Instruction Manual](Advantest_R6142_R6144_Instruction_Manual.pdf)
 * [Advantest R6142/R6144 - Maintenance Manual](Advantest_R6142_R6144_Maintenance_Manual.pdf)
-  
+
 ## Firmware
 
 ### U3
@@ -17,5 +17,4 @@
 
 ## Author
 
-* Paweł 'felixd' Wojciechowski - FlameIT - Immersion Cooling
-  
+* Paweł 'felixd' Wojciechowski - [FlameIT - Immersion Cooling](https://flameit.io)
