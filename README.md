@@ -5,7 +5,7 @@
 ## Documenatation
 
 * [Advantest R6142/R6144 - Instruction Manual](Advantest_6144_ope_e.pdf)
-* [Advantest R6142/R6144 - Maintenance Manual](Advantest R6142 R6144 Service Manual.pdf)
+* [Advantest R6142/R6144 - Maintenance Manual](Advantest_R6142_R6144_Maintenance_Manual.pdf)
   
 ## Firmware
 
