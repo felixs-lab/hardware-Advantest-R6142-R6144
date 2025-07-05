@@ -1,7 +1,12 @@
 # Current and Voltage Generator - Advantest R6142/R6144
 
+![image](https://github.com/user-attachments/assets/862dce7c-2398-4b93-8767-4f849d9658fd)
+
 ## Documenatation
 
+* [Advantest R6142/R6144 - Instruction Manual](Advantest_6144_ope_e.pdf)
+* [Advantest R6142/R6144 - Maintenance Manual](Advantest R6142 R6144 Service Manual.pdf)
+  
 ## Firmware
 
 ### U3
