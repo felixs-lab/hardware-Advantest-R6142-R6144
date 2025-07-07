@@ -20,12 +20,9 @@
 
 ![image](https://github.com/user-attachments/assets/d361c846-d7b7-44ef-b5c9-784dd7870cb3)
 
-
-Data from U5 were collected from this source: https://www.eevblog.com/forum/repair/advantest-r6144-voltcurrent-gen-bad-output-on-lower-ranges/msg4479262/#msg4479262
-
 * U5 - Calibartion data HEX [Advantest_R6142_R6144_U5_AT59C11.hex](firmware/Advantest_R6142_R6144_U5_AT59C11.hex)
 
-Replacemt part
+#### Replacemt part
 
 https://www.eevblog.com/forum/repair/advantest-r6144-voltcurrent-gen-bad-output-on-lower-ranges/msg5382893/#msg5382893
 
@@ -35,6 +32,9 @@ I used a Beeprog (ELNEC) for reading and programming the AT59C11. The 93C46 is n
 BR,
 Gyorgy
 `
+
+HEX file for U5 was downloaded from EEVBlog:
+* https://www.eevblog.com/forum/repair/advantest-r6144-voltcurrent-gen-bad-output-on-lower-ranges/msg4479262/#msg4479262
 
 ## Author
 
