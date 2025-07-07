@@ -1,6 +1,6 @@
 # Current and Voltage Generator - Advantest R6142/R6144
 
-![image](https://github.com/user-attachments/assets/862dce7c-2398-4b93-8767-4f849d9658fd)
+![obraz](https://github.com/user-attachments/assets/2b5ced1c-ffb3-4773-8a42-84aace67b84a)
 
 ## Documenatation
 
